@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43710bd9-faa7-467b-9963-5d28e1cb833f" name="Default Changelist" comment="idk">
-      <change afterPath="$PROJECT_DIR$/5th_component_trial3_v1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Repository for pre-assessment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Repository for pre-assessment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
